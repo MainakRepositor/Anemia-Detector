@@ -17,7 +17,7 @@ def app(df, X, y):
     st.markdown(
         """
             <p style="font-size:25px">
-                This app uses <b style="color:green">Decision Tree Classifier</b> for the Anaemia.
+                This app uses <b style="color:green">Decision Tree Classifier</b> for the Anemia Detection.
             </p>
         """, unsafe_allow_html=True)
 
@@ -45,9 +45,9 @@ def app(df, X, y):
 
         # Print the output according to the prediction
         if (prediction == 1):
-            st.warning("The person is prone to experience Anaemia!!")
+            st.warning("The person is prone to experience Anemia!!")
         else:
-            st.success("The person has relatively less chances of Anaemia")
+            st.success("The person has relatively less chances of Anemia")
 
         # Print teh score of the model 
         st.write("The model used is trusted by doctor and has an accuracy of ", (score*100),"%")
