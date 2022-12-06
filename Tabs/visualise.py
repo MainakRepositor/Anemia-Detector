@@ -20,7 +20,7 @@ def app(df, X, y):
     st.set_option('deprecation.showPyplotGlobalUse', False)
 
     # Set the page title
-    st.title("Visualise Brain Stroke Demographics")
+    st.title("Visualise Anemia Demographics")
 
     # Create a checkbox to show correlation heatmap
     if st.checkbox("Show the correlation heatmap"):
