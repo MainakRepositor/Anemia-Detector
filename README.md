@@ -1,6 +1,6 @@
 # Breast Cancer Predictor
 
-![home](https://user-images.githubusercontent.com/64016811/200050898-b7e0a3f7-acd9-4075-8e3b-a0f1a8a47af3.png)
+![home](https://user-images.githubusercontent.com/64016811/205904285-2a7a5669-2513-4390-a842-0c3c43befac8.jpeg)
 
 
 
@@ -25,9 +25,9 @@ Building an application that can predict the occurrence of a cardiac arrest or t
 |   └─── data.py
 |   └─── predict.py
 |   └─── visualize.py
-|   └─── about.py
 └───__pycache__
 └─── main.py
+└─── anemia.csv
 └─── web_functions.py
 └─── requirements.txt
 └─── Procfile
