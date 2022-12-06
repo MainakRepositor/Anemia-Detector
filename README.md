@@ -1,4 +1,4 @@
-# Breast Cancer Predictor
+# Anemia Detector
 
 ![home](https://user-images.githubusercontent.com/64016811/205904285-2a7a5669-2513-4390-a842-0c3c43befac8.jpeg)
 
@@ -6,7 +6,7 @@
 
 ### Problem : 
 
-Breast Cancer is a chronic health condition that affects how your heart pumps blood throughout your body. It is not a disease but a phenomena, where there are sudden cardiac arrests. Having healthy, low-cholesterol food, and being active can really help in reducing the chances of cardiac arrest. 
+A condition in which the blood doesn't have enough healthy red blood cells. Anaemia results from a lack of red blood cells or dysfunctional red blood cells in the body. This leads to reduced oxygen flow to the body's organs. Symptoms may include fatigue, skin pallor, shortness of breath, light-headedness, dizziness or a fast heartbeat.Treatment depends on the underlying diagnosis. Iron supplements can be used for iron deficiency. Vitamin B supplements may be used for low vitamin levels. Blood transfusions can be used for blood loss. Medication to induce blood formation may be used if the body’s blood production is reduced.
 
 ### Solution:
 
