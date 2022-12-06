@@ -11,7 +11,7 @@ from Tabs import home, data, predict, visualise
 
 # Configure the app
 st.set_page_config(
-    page_title = 'Anaemia Detector',
+    page_title = 'Anemia Detector',
     page_icon = 'random',
     layout = 'wide',
     initial_sidebar_state = 'auto'
